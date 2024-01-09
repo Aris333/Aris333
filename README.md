@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding and debugging
 - 🌱 I’m currently working on  Vue | Laravel 
 - 💞️ I’m looking to collaborate on laravel new bugs
-- 
 https://www.linkedin.com/in/hamza-ali-bhatti33/
 
 <!---
